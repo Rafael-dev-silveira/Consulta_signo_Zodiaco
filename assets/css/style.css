@@ -1,0 +1,15 @@
+body {
+    background-color: #eff3f3;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 600px;
+    height: 250px;
+    background-color: rgb(6, 171, 248);
+    border-radius: 10px;
+    padding: 10px 50px 10px 50px;
+}

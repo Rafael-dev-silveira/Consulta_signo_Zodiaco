@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<signos>
+    <signos>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries<signoNome>
+    </signos>
+
+    <signos>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro<signoNome>
+    </signos>
+
+    <signos>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos<signoNome>
+    </signos>
+
+    <signos>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>20/07</dataFim>
+        <signoNome>Câncer<signoNome>
+    </signos>
+
+    <signos>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão<signoNome>
+    </signos>
+
+    <signos>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem<signoNome>
+    </signos>
+
+    <signos>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra<signoNome>
+    </signos>
+
+    <signos>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião<signoNome>
+    </signos>
+
+    <signos>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário<signoNome>
+    </signos>
+
+    <signos>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio<signoNome>
+    </signos>
+
+    <signos>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário<signoNome>
+    </signos>
+
+    <signos>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes<signoNome>
+    </signos>
